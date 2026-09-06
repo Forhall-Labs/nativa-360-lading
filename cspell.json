@@ -28,7 +28,10 @@
     "mergear",
     "logomark",
     "instanciarlo",
-    "Bloqueante"
+    "Bloqueante",
+    "linkea",
+    "pipefail",
+    "Forhall"
   ],
   "ignorePaths": [
     "node_modules",
